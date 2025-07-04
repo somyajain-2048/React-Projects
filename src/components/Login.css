@@ -1,0 +1,9 @@
+@media(max-width:600px){
+form{
+	padding:15px;
+}
+
+input,button{
+	font-size: 14px;
+}
+}
